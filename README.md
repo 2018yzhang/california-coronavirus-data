@@ -1,7 +1,7 @@
 # DS 560 HW5 Commit ID: 3e6ad3034b5a8a65c625106dc234aab82367b58d
 # Commit Link: https://github.com/2018yzhang/california-coronavirus-data/tree/3e6ad3034b5a8a65c625106dc234aab82367b58d
-# Q6 Documentation: https://github.com/2018yzhang/california-coronavirus-data/tree/3e6ad3034b5a8a65c625106dc234aab82367b58d#data-visualization
-# Docker Documentation: https://github.com/2018yzhang/california-coronavirus-data/tree/3e6ad3034b5a8a65c625106dc234aab82367b58d#run-on-docker
+# Q6 Documentation (In the Middle): https://github.com/2018yzhang/california-coronavirus-data/tree/3e6ad3034b5a8a65c625106dc234aab82367b58d#data-visualization
+# Docker Documentation (In the Middle): https://github.com/2018yzhang/california-coronavirus-data/tree/3e6ad3034b5a8a65c625106dc234aab82367b58d#run-on-docker
 
 
 
